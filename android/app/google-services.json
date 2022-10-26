@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "675631583785",
+    "firebase_url": "https://notey-b3530-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notey-b3530",
+    "storage_bucket": "notey-b3530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675631583785:android:0f50614ffeeff9950b4238",
+        "android_client_info": {
+          "package_name": "com.londonboy.notey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675631583785-vfmrf3mivl0da28fa1505g9jn8n7tq0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-GrlxnP7cdX-Q6RqKs8LwLU5hGTRWeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675631583785-vfmrf3mivl0da28fa1505g9jn8n7tq0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675631583785-73ucskun371ljeh0lq5ijabtmv7lmhua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.londonboy.notey"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
