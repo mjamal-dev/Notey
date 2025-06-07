@@ -11,3 +11,4 @@ A note-taking app with security on mind.
 3. Link your own Firebase Firestore db or use the default one linked.
 
 4. Run the app ```flutter run```
+   
