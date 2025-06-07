@@ -12,3 +12,4 @@ A note-taking app with security on mind.
 
 4. Run the app ```flutter run```
    
+
